@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello <img width="498" height="367" alt="GorillaMonkeGIF" src="https://github.com/user-attachments/assets/18f93da0-9fd0-437a-86c7-f8d7053d7732" />
+
 
 <!--
 **AAdem-dev/AAdem-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
