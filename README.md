@@ -1,8 +1,6 @@
 ## Hello 👋
 
-I'm <span style="color:pink">
-Adem
-</span>, a 17 yrs old web developper/designer based in Lyon, France.
+I'm <span style="color:pink">Adem</span>, a 17 yrs old web developper/designer based in Lyon, France.
 
 I design and create stuff I actually like.
 
