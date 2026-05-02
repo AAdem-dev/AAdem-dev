@@ -1,4 +1,16 @@
-## Hello <img width="498" height="367" alt="GorillaMonkeGIF" src="https://github.com/user-attachments/assets/18f93da0-9fd0-437a-86c7-f8d7053d7732" />
+## Hello 👋
+
+I'm Adem, a web developper/designer based in Lyon, France.
+
+I design and create stuff I actually like.
+
+The technologies I use the most are JS, html/css, PHP, and SQL.
+I'm learning React and Angular too.
+
+I don't push every single one of my projects here but only the one that I think are actually cool to show.
+
+I've done around a 100 small projects during my time in [EDEN school][https://www.edenschool.fr/].
+
 
 
 <!--
