@@ -19,7 +19,7 @@ Im currently looking for a work-study program, you can check my [Linkedin](https
 * Jojo's bizarre adventure is my favourite anime
 * I really enjoy cinema, especially asian cinema
 * My favourite sports are basketball and football
-* I love music especialy rap and R&B
+* I love music especially rap and R&B
 * I fancy fashion
 * In my free time I like to do some design and other creative stuff such as music
   
