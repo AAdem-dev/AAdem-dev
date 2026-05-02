@@ -1,6 +1,6 @@
 ## Hello 👋
 
-I'm Adem, a web developper/designer based in Lyon, France.
+I'm Adem, a 17 yrs old web developper/designer based in Lyon, France.
 
 I design and create stuff I actually like.
 
