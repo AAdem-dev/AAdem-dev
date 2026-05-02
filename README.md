@@ -16,7 +16,7 @@ Im currently looking for a work-study program, you can check my [Linkedin](https
 
 **Fun Facts:** 
 
-* JJBA is my favourite anime
+* Jojo's bizarre adventure is my favourite anime
 * I really enjoy cinema, especially asian cinema
 * My favourite sports are basketball and football
 * I love music especialy rap and R&B
