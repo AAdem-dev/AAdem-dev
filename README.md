@@ -17,7 +17,7 @@ Im currently looking for a work-study program, you can check my [Linkedin](https
 **Fun Facts:** 
 
 * Jojo's bizarre adventure is my favourite anime
-* I really enjoy cinema, especially asian cinema
+* I really enjoy cinema, especially asian cinema ([my letterboxd](https://letterboxd.com/jikuin/)).
 * My favourite sports are basketball and football
 * I love music especially rap and R&B
 * I fancy fashion
